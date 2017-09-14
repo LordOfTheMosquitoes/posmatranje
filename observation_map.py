@@ -34,7 +34,7 @@ def beep(num):
             time.sleep(0.3)
 
 def play_sound(x):
-    os.system('nohup mpv Sounds/' + x + ' &')
+    os.system('mpv Sounds/' + x + ' &')
 
 def get_time():
     time = str(os.popen('date -u +%H:%M:%S').read())[0:-1]
