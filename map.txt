@@ -1,0 +1,17 @@
+$ is -4
+# is -3
+@ is -2
+! is -1
+0 is 0
+1 is 1
+2 is 2 
+3 is 3
+4 is 4
+p is PER
+s is SPO
+g is KCG
+c is commit
+j is show_times
+k is pause
+t is marker
+q is quit
