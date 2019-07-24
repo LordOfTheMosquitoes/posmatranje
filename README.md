@@ -1,1 +1,3 @@
 # posmatranje
+
+Zao mi je
